@@ -7,6 +7,5 @@
 
 
 ## 2023.1.2
-- learn git
-- install IDEA
--  
+- [x] learn git
+- [x] install IDEA 
